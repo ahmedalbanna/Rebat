@@ -1,0 +1,6 @@
+{
+  "name": "Rebat",
+  "description": "Student transportation management system with dynamic pricing, fixed schedules, and live tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
